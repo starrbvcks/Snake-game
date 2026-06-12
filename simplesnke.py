@@ -16,4 +16,8 @@ words = split_words(text)
 print(f"words: {words}")
 
 num_of_words = count_words(words)
+<<<<<<< HEAD
 print(f"num of words:{num_of_words}")
+=======
+print(f"num of words:{num_of_words}")
+>>>>>>> 0428c6629cc10af4aa8c3680fe607bd355c441be
